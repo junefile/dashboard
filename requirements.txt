@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 matplotlib==3.9.2
 pandas==2.2.3
 seaborn==0.13.2
 streamlit==1.39.0
+=======
+matplotlib==3.8.0
+numpy==1.25.2
+pandas==2.1.4
+seaborn==0.13.0
+streamlit==1.30.0
+>>>>>>> e9739e07359e2a06b2e6178a8450933d844cc5e7
